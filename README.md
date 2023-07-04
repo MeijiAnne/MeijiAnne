@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MeijiAnne
 - 👀 I’m interested in Computer Networking
-- 🌱 I’m currently learning Vue
+- 🌱 I’m currently learning Laravel
 - 💞️ I’m looking to collaborate on Web Development
 - 📫 How to reach me Minchin#8220
 
